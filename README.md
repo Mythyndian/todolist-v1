@@ -6,11 +6,11 @@ Simplified todolist app using HTML5 CSS3 and node.js
 
 ## Dependencies
 
-- [Node.js]("https://nodejs.org/en")
-- [npm]("https://www.npmjs.com/")
-- [ejs]("https://ejs.co/")
-- [body-parser]("https://www.npmjs.com/package/body-parser")
-- [express.js]("https://expressjs.com/")
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
+- [ejs](https://ejs.co/)
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [express.js](https://expressjs.com/)
 
 ## Installation
 
